@@ -1,0 +1,9 @@
+based on https://downloads.sourceforge.net/freeglut/freeglut-3.2.1.tar.gz
+source: https://sourceforge.net/projects/freeglut
+Copyrights are reserved by its authors, owners, developers, contributors...
+
+MtDesert:
+I reserve only "include" dir & "src" dir, And write a Makefile for compile control.
+Depend on CompileScripts, see https://github.com/MtDesert/CompileScripts for more details.
+
+note: this project just for Windows. For Linux we can install glut instead of this, unless you want to change glut's codes while developing.
